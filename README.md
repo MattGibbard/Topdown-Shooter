@@ -1,7 +1,9 @@
 # Topdown Shooter
 ## A simple top down shooter made in GML and GameMaker
 
-### To Do
+### To do v0.0.1
+- [x] Basic character
+- [x] Basic shooting mechanic
 - [ ] Add shooting accuracy
 - [ ] Add player health
 - [ ] Add basic enemy
@@ -11,6 +13,5 @@
 - [ ] Add sounds
 - [ ] Add instant refresh
 
-### Added
-- [ ] Basic character
-- [x] Basic shooting mechanic
+### To do v0.0.2
+- [ ] Coming soon
